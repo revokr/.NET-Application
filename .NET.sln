@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proiect_MPP", "Proiect_MPP\Proiect_MPP.csproj", "{0711A746-FC5C-4E42-904B-D168DA6756EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Proiect_MPP\Client.csproj", "{0711A746-FC5C-4E42-904B-D168DA6756EA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SERVER", "SERVER\SERVER.csproj", "{EB9DF018-01D1-48CF-981F-81EC10B695EF}"
 	ProjectSection(ProjectDependencies) = postProject
